@@ -1,8 +1,3 @@
-## Credit-Card-Application-Fraud-Analytics
-
-Notice: For security purpose, all files are stored under master branch.
-
-
 ### Project Goal:
 
 This project explores a synthetic dataset of 1,000,000 credit card and phone number applications, and builds a real-time supervised model based on the Personal Identity Information (PII) in those applications to help companies identify possible application frauds in real time.
